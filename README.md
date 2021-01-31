@@ -1,4 +1,5 @@
-[pt-br]<br>
+**[pt-br]**<br>
+#### Quem?
 Oi, me chamo Thiago Trennepohl.
 
 No momento eu arquiteto sistemas serverless e faço deploy de jogos no K8S na @YAGER-Development
@@ -15,7 +16,8 @@ Ver as pessoas que ensinei progredindo.
 Estou trabalhando em um jogo multiplayer de action rpg usando a engine Godot, alguns finais de semana eu faço stream do que ta rolando no projeto.
 
 ---
-[en]<br>
+**[en]**<br>
+#### Who?
 Hi, I'm Thiago Trennepohl.
 
 I currently design serverless systems and deploy games to K8S at @YAGER-Development
